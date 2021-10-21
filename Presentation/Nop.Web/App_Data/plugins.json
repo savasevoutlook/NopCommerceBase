@@ -1,0 +1,86 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": [
+    {
+      "Item1": "DiscountRequirement.MustBeAssignedToCustomerRole",
+      "Item2": null
+    },
+    {
+      "Item1": "CurrencyExchange.ECB",
+      "Item2": null
+    },
+    {
+      "Item1": "ExternalAuth.Facebook",
+      "Item2": null
+    },
+    {
+      "Item1": "Misc.Sendinblue",
+      "Item2": null
+    },
+    {
+      "Item1": "MultiFactorAuth.GoogleAuthenticator",
+      "Item2": null
+    },
+    {
+      "Item1": "Payments.PayPalCommerce",
+      "Item2": null
+    },
+    {
+      "Item1": "Payments.PayPalStandard",
+      "Item2": null
+    },
+    {
+      "Item1": "Payments.CheckMoneyOrder",
+      "Item2": null
+    },
+    {
+      "Item1": "Payments.Manual",
+      "Item2": null
+    },
+    {
+      "Item1": "Pickup.PickupInStore",
+      "Item2": null
+    },
+    {
+      "Item1": "Shipping.FixedByWeightByTotal",
+      "Item2": null
+    },
+    {
+      "Item1": "Shipping.ShipStation",
+      "Item2": null
+    },
+    {
+      "Item1": "Shipping.UPS",
+      "Item2": null
+    },
+    {
+      "Item1": "Tax.Avalara",
+      "Item2": null
+    },
+    {
+      "Item1": "Tax.FixedOrByCountryStateZip",
+      "Item2": null
+    },
+    {
+      "Item1": "Widgets.AccessiBe",
+      "Item2": null
+    },
+    {
+      "Item1": "Widgets.FacebookPixel",
+      "Item2": null
+    },
+    {
+      "Item1": "Widgets.GoogleAnalytics",
+      "Item2": null
+    },
+    {
+      "Item1": "Widgets.NivoSlider",
+      "Item2": null
+    }
+  ]
+}

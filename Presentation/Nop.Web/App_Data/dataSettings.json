@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Data Source=SEDEVELOPER;Initial Catalog=NopCommerceDefaultDb;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
